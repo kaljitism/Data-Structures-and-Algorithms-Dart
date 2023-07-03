@@ -6,7 +6,7 @@ A repository which contains Implementation of Data Strcutures and Algorithms in 
 
 ## What is an Algorithm? 
 
-`**f: I => O**`
+**`f: I => O`**
 
 An algorithm is defined as a function which maps arbitrary sized input to fixed sized output. The function could be a single step or a series of steps. It can be applied just once, in iteration or under recursion. 
 
